@@ -1,3 +1,3 @@
-'19.1117'
-'https://github.com/re-is/eset/raw/master/ESET-Copier-19.1117.exe'
+'19.1210'
+'https://github.com/re-is/eset/raw/master/ESET-Copier-19.1210.exe'
 'GUW5-XPTG-HJRK-4DNT-9FAA'

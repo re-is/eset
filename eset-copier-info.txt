@@ -1,3 +1,3 @@
-'20.1129'
-'https://github.com/re-is/eset/raw/master/ESET-Copier-20.1129.exe'
+'20.1231'
+'https://github.com/re-is/eset/raw/master/ESET-Copier-20.1231.exe'
 'SRSD-XXUK-MJ4U-KCHS-AVPA'

@@ -1,3 +1,4 @@
 '20.1231'
 'https://github.com/re-is/eset/raw/master/ESET-Copier-20.1231.exe'
 'KEC9-XNKM-SCFA-D6F4-K6AB'
+

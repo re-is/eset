@@ -1,3 +1,3 @@
-'21.0707'
-'https://github.com/re-is/eset/raw/master/ESET-Copier-21.0707.exe'
+'21.0708'
+'https://github.com/re-is/eset/raw/master/ESET-Copier-21.0708.exe'
 'DJ6G-XMEV-GJHW-JUHM-T88N'
